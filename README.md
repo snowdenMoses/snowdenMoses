@@ -1,5 +1,5 @@
 - Hi, I’m @snowdenMoses
-- I’m a Full Stack Developer and I am proficient in JavaScript, Python, PHP, reactjs, redux, react native, expressjs, GraphQL, MongoDB, MySQL, GSAP, HTML, CSS,   JWT, Git,  
+- I’m a Full Stack Developer and I am proficient in Node.js, TypeScript, Ruby on Rails, React.js, redux, JWT, expressjs, REST API, GraphQL, MongoDB, PostgresQL, TypeORM, Prisma ORM, HTML, CSS
 - You can contact me via email snowdenmoses@gmail.com
 
 <!---
